@@ -62,7 +62,7 @@ In this chart, the fares between the city types seem consistent with the urban c
 
 With the analysis above the following recommendations can be made:
 
-* **Recommendation 1:**\ 
+* **Recommendation 1:**\
 In the summary chart, we see that there were 1625 total rides, and 2405 available drivers. This could mean that there are too many drivers servicing the urban city type and thus should be incentivized to spread out to the other city types.
 
 * **Recommendation 2:**\
