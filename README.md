@@ -66,7 +66,7 @@ With the analysis above the following recommendations can be made:
 In the summary chart, we see that there were 1625 total rides, and 2405 available drivers. This could mean that there are too many drivers servicing the urban city type and thus should be incentivized to spread out to the other city types.
 
 * **Recommendation 2:**\
-The rural area has the highest average fare per ride and per driver compared to the Urban city type. T One more point of interest is that there were 125 total rides, yet only 78 total drivers. This may signify that the Rural area is severely underserviced PyBer drivers, and in turn, the business may want to focus their attention there.
+The rural area has the highest average fare per ride and per driver compared to the Urban city type. T One more point of interest is that there were 125 total rides, yet only 78 total drivers. This may signify that the Rural area is severely underserviced by PyBer drivers, and in turn, the business may want to focus their attention there.
 
 * **Recommendation 3:**\
 In the Total Fare by City Type chart, we see that there is spike in demand for the suburban city type at the end of April. This data can be used as an ongoing tool to recognize trends in order to send drivers where demand is growing or highest.
